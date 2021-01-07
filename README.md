@@ -52,10 +52,10 @@ Lucas Herculano – [@linkedin](https://linkedin.com/in/lucasgherculano) – luc
 
 ## Roadmap
 
-[x] Criação da aplicação em Node
-[x] docker-compose mysql
-[x] deployment file
-[x] Adicionar sidecar para cloud-sql-proxy
-[] Implantar CICD
-[] Adicionar ao path(/api) do mesmo DNS do frontend
-... whats next?
+- [x] Criação da aplicação em Node
+- [x] docker-compose mysql
+- [ ] deployment file
+- [ ] Adicionar sidecar para cloud-sql-proxy
+- [ ] Implantar CICD
+- [ ] Adicionar ao path(/api) do mesmo DNS do frontend
+- [ ] ... whats next?
